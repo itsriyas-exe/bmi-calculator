@@ -4,6 +4,4 @@ body {
   height: 100vh;
   font-size: 21px;
   font-family: "PT Sans", sans-serif;
-  background-image: linear-gradient( 135deg, #d7f8ff 10%, #000000 100%);
-  background-repeat: no-repeat;
 }
