@@ -1,0 +1,14 @@
+.result-section{
+  background: rgb(0,0,0);
+background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(85,55,55,1) 100%);
+  width: fit-content;
+  padding: 15px;
+  border-radius: 13px;
+  color: white;
+}
+#brand{
+  color: black;
+}
+#brand:hover{
+  color: white;
+}
